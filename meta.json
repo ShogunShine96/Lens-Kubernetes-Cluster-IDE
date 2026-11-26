@@ -1,0 +1,23 @@
+{
+  "repo": "lens-kubernetes-cluster-ide",
+  "product": "Lens Kubernetes Cluster IDE",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "lens-kubernetes-cluster-ide",
+    "lens-kubernetes",
+    "lens-kubernetes-ide",
+    "how-to-install-lens-kubernetes",
+    "how-to-setup-lens-kubernetes",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "lens-cluster"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Lens Kubernetes Cluster IDE"
+}
